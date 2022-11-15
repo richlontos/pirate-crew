@@ -1,0 +1,50 @@
+.btn {
+    border: none;
+    border-radius:5px;
+    text-decoration:none;
+    font-size: 12px;
+    font-weight:200;
+    color:#FFFFFF;
+    background-color:#4eb5f1;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.btn:hover {
+    background-color:#4095c6;
+    cursor: pointer;
+}
+
+.yesbtn {
+    border: none;
+    border-radius:5px;
+    text-decoration:none;
+    font-size: 12px;
+    font-weight:200;
+    color:white;
+    background-color:green;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.yesbtn:hover {
+    background-color:darkgreen;
+    cursor: pointer;
+}
+
+.nobtn {
+    border: none;
+    border-radius:5px;
+    text-decoration:none;
+    font-size: 12px;
+    font-weight:200;
+    color:white;
+    background-color:red;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+.nobtn:hover {
+    background-color:darkred;
+    cursor: pointer;
+}
